@@ -1,5 +1,5 @@
 {
-  "name": "bulk-image-ai",
+  "name": "bulkimageai",
   "compatibility_date": "2026-02-05",
   "assets": {
     "directory": "./dist"
